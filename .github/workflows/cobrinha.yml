@@ -1,9 +1,12 @@
 name: Generate Datas
 
-on:
-  schedule: # execute every 2 hours
-    - cron: "*2 * * *"
-  workflow_dispatch:
+# Cartões de resumo
+      - usa : ações/checkout@v2
+      - usa : vn7n24fzkq/github-profile-summary-cards@release
+        ambiente :
+          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+        com :
+          NOME DE USUÁRIO : ${{ github.repository_owner }}
 
 jobs:
   build:
