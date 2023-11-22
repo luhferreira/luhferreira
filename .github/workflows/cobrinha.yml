@@ -1,6 +1,5 @@
 name: Generate Datas
 
-# Cartões de resumo
       - usa : ações/checkout@v2
       - usa : vn7n24fzkq/github-profile-summary-cards@release
         ambiente :
