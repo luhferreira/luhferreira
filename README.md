@@ -1,8 +1,9 @@
-## Hi, I'm the Luana Ferreira 👋
+## Hi, I'm Luana Ferreira 👋
 
-- 🔎 Work on QA
-- 👩🏻‍🎓 I have a degree in ADS
-- 🤖 I’m looking for help with automated testing
+- QA tester
+- Fortaleza-Ce
+- 29 anos
+- ADS concluído
 
 ##
 
