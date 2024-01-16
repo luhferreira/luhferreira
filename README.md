@@ -2,7 +2,7 @@
 
 - QA tester
 - Fortaleza-Ce
-- 29 anos
+- 30 anos
 - ADS concluído
 
 ##
