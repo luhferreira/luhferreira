@@ -79,6 +79,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luhferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhferreira&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=luhferreira&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhferreira&theme=radical"/>
 </div>
